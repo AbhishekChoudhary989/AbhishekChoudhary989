@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React for advanced front-end development Advanced Java JDBC for backend applications Exploring new tools and frameworks to enhance my full-stack skills**
 
-- 📫 How to reach me **abhishekchaudhary.s2c@gmail.com**
+- 📫 How to reach me **abhishekchaudhary3e@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10LLmeZZcfBUqcK95SALzias8jYGjPeBO/view?usp=sharing](https://drive.google.com/file/d/10LLmeZZcfBUqcK95SALzias8jYGjPeBO/view?usp=sharing)
 
