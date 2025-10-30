@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
 <h3 align="center">💻 Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="442" height="249">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchoudhary989&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchoudhary989" /> </p>
 
 - 🌱 I’m currently learning **React for advanced front-end development Advanced Java JDBC for backend applications Exploring new tools and frameworks to enhance my full-stack skills**
